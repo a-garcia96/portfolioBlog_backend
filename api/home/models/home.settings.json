@@ -2,7 +2,8 @@
   "kind": "singleType",
   "collectionName": "homes",
   "info": {
-    "name": "home"
+    "name": "home",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -18,6 +19,36 @@
       "type": "string"
     },
     "description": {
+      "type": "string"
+    },
+    "section2": {
+      "type": "string"
+    },
+    "section2body": {
+      "type": "richtext"
+    },
+    "section3": {
+      "type": "string"
+    },
+    "section3body": {
+      "type": "richtext"
+    },
+    "section1": {
+      "type": "string"
+    },
+    "section1body": {
+      "type": "richtext"
+    },
+    "veritcalText1": {
+      "type": "string"
+    },
+    "verticalText2": {
+      "type": "string"
+    },
+    "verticalText3": {
+      "type": "string"
+    },
+    "verticalText4": {
       "type": "string"
     }
   }
